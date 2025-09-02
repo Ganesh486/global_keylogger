@@ -57,8 +57,12 @@ Awareness & training for end-users.
 ## References
 
 https://pypi.org/project/pynput/
+
 https://pypi.org/project/psutil/
+
 https://ngrok.com/
+
 Ngrok Official
+
 Stallings, W. (2018). Computer Security: Principles and Practice. Pearson.
 OWASP Keylogger Prevention Guide
