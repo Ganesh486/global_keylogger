@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 
 This project demonstrates how attackers can use a keylogger to capture system and network information, and then exfiltrate keystrokes to a remote server.
 
@@ -34,7 +34,7 @@ pip install pynput psutil
 ├── client.py   # Client keylogger (sends keystrokes)
 ├── README.md   # Project documentation
 
-# Usage
+## Usage
 1. Run the Server
 python3 server.py
 
